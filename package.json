@@ -1,0 +1,22 @@
+{
+  "name": "grasseum_watchprocess",
+  "version": "1.0.1",
+  "description": "OS specification for grasseum",
+  "main": "index.js",
+  "scripts": {
+    "es_linter": "eslint lib/*.js *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grasseum/grasseum_watchprocess.git"
+  },
+  "keywords": [
+    "concat"
+  ],
+  "author": "Pein Freccs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grasseum/grasseum_watchprocess/issues"
+  },
+  "homepage": "https://github.com/grasseum/grasseum_watchprocess#readme"
+}
